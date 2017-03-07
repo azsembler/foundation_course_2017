@@ -15,6 +15,7 @@ nano README.md
 Ckeck the status (You will see status of files in folder)
 git status
 
+<<<<<<< HEAD
 Add file (add file for commit)
 git add Filename
 
@@ -57,3 +58,7 @@ gitg
 
 
 
+=======
+Add file (commit file to Git)
+git add Filename
+>>>>>>> first_branch

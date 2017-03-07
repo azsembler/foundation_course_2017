@@ -58,7 +58,16 @@ gitg
 View commit log
 git log
 
+<<<<<<< HEAD
 
+=======
+Pull from git
+git pull origin master
+
+Merge branch
+acess main branch (ex: master)
+git merge branchname
+>>>>>>> first_branch
 
 
 
