@@ -9,3 +9,51 @@ git config --global user.email "porche120@gmail.com"
 initialize folder on Github (Initialized empty responsibility in this folder)
 git init
 
+Create text file 
+nano README.md
+
+Ckeck the status (You will see status of files in folder)
+git status
+
+Add file (add file for commit)
+git add Filename
+
+Commit file to git with comment
+git commit -m "Added readme file"
+
+Add files at the same time
+git add "*.
+
+Reset file status before commit
+git reset
+git reset Filename
+
+specify where to place
+git remote add origin git remote add origin https://github.com/azsembler/foundation_course_2017.git
+
+Check place to push
+git remote -v
+
+Push to the git
+git push -u origin master
+
+check branch
+git branch
+
+create brance 
+git branch branchname
+
+access branch
+git checkout branchname
+
+remove branch
+git branch -d branchname
+
+install gitg (User interface to see git commit and branch)
+sudo apt-get install gitg
+
+View the above program
+gitg
+
+
+
