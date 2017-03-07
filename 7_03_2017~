@@ -9,3 +9,11 @@ git config --global user.email "porche120@gmail.com"
 initialize folder on Github (Initialized empty responsibility in this folder)
 git init
 
+Create text file 
+nano README.md
+
+Ckeck the status (You will see status of files in folder)
+git status
+
+Add file (commit file to Git)
+git add Filename
