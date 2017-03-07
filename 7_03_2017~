@@ -1,0 +1,11 @@
+7_03_2017
+
+make new folder "foundation_C_2017"
+mkdir foundation_C_2017
+
+login
+git config --global user.email "porche120@gmail.com"
+
+initialize folder on Github (Initialized empty responsibility in this folder)
+git init
+
